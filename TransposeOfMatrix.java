@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class TestClass {
+class TransposeOfMatrix {
     public static void main(String args[] ) throws Exception {
         
          // Read input from stdin and provide input before running
