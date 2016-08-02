@@ -24,7 +24,7 @@ while(t-->0){
 	double th=(theta_max*pi/180);
 	
 int h1=h-(int) Math.floor(0.5*Math.tan(th)*a);
-
+ 
 
 System.out.println(h1);
 	
